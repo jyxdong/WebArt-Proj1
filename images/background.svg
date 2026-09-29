@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #adac8a;
+      }
+
+      .st1 {
+        fill: #6a8aef;
+      }
+
+      .st2 {
+        fill: #ff0;
+      }
+
+      .st3 {
+        fill: #598451;
+      }
+    </style>
+  </defs>
+  <rect class="st1" width="1920" height="465.7"/>
+  <rect class="st3" y="370.55" width="1920" height="709.45"/>
+  <polygon class="st0" points="890.77 370.55 2 1080 1922 1080 1033.23 370.55 890.77 370.55"/>
+  <g>
+    <polygon class="st2" points="959.34 371.83 889.83 1081.28 941.98 1081.28 963.21 371.83 959.34 371.83"/>
+    <polygon class="st2" points="970.49 371.83 966.62 371.83 987.85 1081.28 1040 1081.28 970.49 371.83"/>
+  </g>
+</svg>
