@@ -1,0 +1,1 @@
+Chatgpt in helping me defining the two "layers" of Liminal working together.
